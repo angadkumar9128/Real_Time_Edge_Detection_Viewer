@@ -23,19 +23,19 @@ An Android app that captures real-time camera frames using `GLSurfaceView`, pass
 # Native Frame Processing 
 
 Image_01 :
-![WhatsApp Image 2025-05-26 at 14 08 48_ccf92696](https://github.com/user-attachments/assets/e80d53b3-8bc3-428d-8c53-d23629b03ec5)
+![WhatsApp Image 2025-05-26 at 14 08 48_7a514933](https://github.com/user-attachments/assets/6ffba916-65b7-49d4-91e4-af2ff7993395)
 
 Image_02 :
-![WhatsApp Image 2025-05-26 at 14 08 49_b4c2768c](https://github.com/user-attachments/assets/8b7191c0-2ab4-4fdd-8ba7-46995db2e661)
+![WhatsApp Image 2025-05-26 at 14 08 49_1088aeb7](https://github.com/user-attachments/assets/abcb3090-2d8c-4933-8ee4-6d265af4e621)
 
 Image_03 :
-![WhatsApp Image 2025-05-26 at 14 08 50_6b369c0c](https://github.com/user-attachments/assets/f4f5db95-7a94-462e-8aac-cab183d03ff0)
+![WhatsApp Image 2025-05-26 at 14 08 50_7b0abd88](https://github.com/user-attachments/assets/862ccce0-ec89-4b8b-9404-ec50a76e69d0)
 
 Image_04 : 
-![WhatsApp Image 2025-05-26 at 14 08 50_a98b90de](https://github.com/user-attachments/assets/6af885ec-3f36-4c97-99f5-79ee5d9a673d)
+![WhatsApp Image 2025-05-26 at 14 08 50_827b3761](https://github.com/user-attachments/assets/e6d16d29-3281-4cf2-baa7-ac5eb3c07606)
 
 Image_05 :
-![WhatsApp Image 2025-05-26 at 14 08 50_25f84a11](https://github.com/user-attachments/assets/510a30e3-58f0-44a9-93f9-16bd9d2aa1be)
+![WhatsApp Image 2025-05-26 at 14 08 50_827b3761](https://github.com/user-attachments/assets/636e9ea1-533d-4e14-8fb3-38325fed6864)
 
 
 ---

@@ -27,18 +27,6 @@ An Android app that captures real-time camera frames using `GLSurfaceView`, pass
 
 # These images showcase the edge detection results processed by the native OpenCV C++ pipeline, demonstrating the app’s real-time image processing capability:
 
-| Image 01                                                                                      | Image 02                                                                                      |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Image\_01](https://github.com/user-attachments/assets/6ffba916-65b7-49d4-91e4-af2ff7993395) | ![Image\_02](https://github.com/user-attachments/assets/abcb3090-2d8c-4933-8ee4-6d265af4e621) |
-
-| Image 03                                                                                      | Image 04                                                                                      |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Image\_03](https://github.com/user-attachments/assets/862ccce0-ec89-4b8b-9404-ec50a76e69d0) | ![Image\_04](https://github.com/user-attachments/assets/e6d16d29-3281-4cf2-baa7-ac5eb3c07606) |
-
-| Image 05                                                                                      |   |
-| --------------------------------------------------------------------------------------------- | - |
-| ![Image\_05](https://github.com/user-attachments/assets/636e9ea1-533d-4e14-8fb3-38325fed6864) |   |
-
 
 ---
 

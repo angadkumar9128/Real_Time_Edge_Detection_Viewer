@@ -1,12 +1,5 @@
-# Real_Time_Edge_Detection_Viewer
- This project is a real-time edge detection Android app using OpenCV and C++ (NDK). It captures frames from the device camera, processes them natively with OpenCV for edge detection, and displays the result using OpenGL or Android views. It demonstrates efficient native image processing on mobile platforms.
-
-
-# Android NDK OpenCV Camera App
-
-An Android app that captures real-time camera frames using `GLSurfaceView`, passes them through the NDK using JNI, and applies image processing using OpenCV.
-
----
+📱 Real-Time Edge Detection Viewer (Android + OpenCV + NDK)
+A real-time Android application that captures camera frames, performs native C++ image processing using OpenCV, and renders the output efficiently via OpenGL or Android views. This project demonstrates high-performance native integration for computer vision on mobile devices.
 
 ## ✅ Features Implemented
 
@@ -23,9 +16,6 @@ An Android app that captures real-time camera frames using `GLSurfaceView`, pass
 => These images showcase the edge detection results processed by the native OpenCV C++ pipeline, demonstrating the app’s real-time image processing capability:
 
 <table> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/2a118628-cbf5-4f1a-9d4e-6117998ef513" width="100%" /> <br><b>Screenshot 01</b> </td> <td align="center"> <img src="https://github.com/user-attachments/assets/f986e9ad-b29d-4e09-b910-6ffa48e4093f" width="100%" /> <br><b>Screenshot 02</b> </td> <td align="center"> <img src="https://github.com/user-attachments/assets/6d754a2a-b6f0-4f85-b845-2a5180e0ef2d" width="100%" /> <br><b>Screenshot 03</b> </td> </tr> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/17dca053-8e2e-4765-a65f-85d679a150a6" width="100%" /> <br><b>Screenshot 04</b> </td> <td align="center"> <img src="https://github.com/user-attachments/assets/70be0d44-b3a4-4005-b739-c8d2b47a26a9" width="100%" /> <br><b>Screenshot 05</b> </td> <td align="center"> <img src="https://github.com/user-attachments/assets/6060e671-6297-428a-a375-b30c53c14925" width="100%" /> <br><b>Screenshot 06</b> </td> </tr> </table>
-
-
-# These images showcase the edge detection results processed by the native OpenCV C++ pipeline, demonstrating the app’s real-time image processing capability:
 
 
 ---

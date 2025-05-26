@@ -18,30 +18,22 @@ An Android app that captures real-time camera frames using `GLSurfaceView`, pass
 
 ---
 
-## 📷 Screenshots
+## 📷 Processed Edge Detection Screenshots
 
-# Native Frame Processing 
+# These images showcase the edge detection results processed by the native OpenCV C++ pipeline, demonstrating the app’s real-time image processing capability:
 
-Image_01 :
-![WhatsApp Image 2025-05-26 at 14 08 48_7a514933](https://github.com/user-attachments/assets/6ffba916-65b7-49d4-91e4-af2ff7993395)
+| Image 01                                                                                      | Image 02                                                                                      |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![Image\_01](https://github.com/user-attachments/assets/6ffba916-65b7-49d4-91e4-af2ff7993395) | ![Image\_02](https://github.com/user-attachments/assets/abcb3090-2d8c-4933-8ee4-6d265af4e621) |
 
-Image_02 :
-![WhatsApp Image 2025-05-26 at 14 08 49_1088aeb7](https://github.com/user-attachments/assets/abcb3090-2d8c-4933-8ee4-6d265af4e621)
+| Image 03                                                                                      | Image 04                                                                                      |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![Image\_03](https://github.com/user-attachments/assets/862ccce0-ec89-4b8b-9404-ec50a76e69d0) | ![Image\_04](https://github.com/user-attachments/assets/e6d16d29-3281-4cf2-baa7-ac5eb3c07606) |
 
-Image_03 :
-![WhatsApp Image 2025-05-26 at 14 08 50_7b0abd88](https://github.com/user-attachments/assets/862ccce0-ec89-4b8b-9404-ec50a76e69d0)
+| Image 05                                                                                      |   |
+| --------------------------------------------------------------------------------------------- | - |
+| ![Image\_05](https://github.com/user-attachments/assets/636e9ea1-533d-4e14-8fb3-38325fed6864) |   |
 
-Image_04 : 
-![WhatsApp Image 2025-05-26 at 14 08 50_827b3761](https://github.com/user-attachments/assets/e6d16d29-3281-4cf2-baa7-ac5eb3c07606)
-
-Image_05 :
-![WhatsApp Image 2025-05-26 at 14 08 50_827b3761](https://github.com/user-attachments/assets/636e9ea1-533d-4e14-8fb3-38325fed6864)
-
-
-| Native Camera Frame                                                                         | Processed (Edge Detection)                                                                  |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| ![Image 1](https://github.com/user-attachments/assets/6ffba916-65b7-49d4-91e4-af2ff7993395) | ![Image 2](https://github.com/user-attachments/assets/abcb3090-2d8c-4933-8ee4-6d265af4e621) |
-| ![Image 3](https://github.com/user-attachments/assets/862ccce0-ec89-4b8b-9404-ec50a76e69d0) | ![Image 4](https://github.com/user-attachments/assets/e6d16d29-3281-4cf2-baa7-ac5eb3c07606) |
 
 ---
 

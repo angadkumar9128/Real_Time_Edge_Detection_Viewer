@@ -123,7 +123,3 @@ Output returned to Java or rendered
 
 ---
 
-## 📃 License
-
-MIT License. Use it freely and contribute back if you improve it!
-

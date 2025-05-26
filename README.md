@@ -20,7 +20,8 @@ An Android app that captures real-time camera frames using `GLSurfaceView`, pass
 
 ## 📷 Screenshots
 
-> Replace with your own app screenshots or GIF demo
+![WhatsApp Image 2025-05-26 at 14 08 48_ccf92696](https://github.com/user-attachments/assets/e80d53b3-8bc3-428d-8c53-d23629b03ec5)
+
 
 | Camera Preview (Live) | Native Frame Processing |
 |-----------------------|--------------------------|

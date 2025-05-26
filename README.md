@@ -1,6 +1,8 @@
-📱 Real-Time Edge Detection Viewer (Android + OpenCV + NDK)
+📱 Real-Time Edge Detection Viewer
+(Android + OpenCV 4.x + NDK + JNI + OpenGL)
+Real-Time Edge Detection Viewer is a high-performance Android application that captures live camera frames, processes them natively using C++ with OpenCV, and displays the result in real time using OpenGL. Built with the Android NDK and JNI, this project highlights efficient native image processing for edge detection on mobile devices.
 
-A real-time Android application that captures camera frames, performs native C++ image processing using OpenCV, and renders the output efficiently via OpenGL or Android views. This project demonstrates high-performance native integration for computer vision on mobile devices.
+It demonstrates advanced mobile computer vision techniques, combining native rendering, JNI-based data flow, and OpenCV-powered image filters to deliver fast, low-latency performance — ideal for real-time AI or AR use cases.
 
 ## ✅ Features Implemented
 

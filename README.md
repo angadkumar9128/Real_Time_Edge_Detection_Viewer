@@ -20,12 +20,23 @@ An Android app that captures real-time camera frames using `GLSurfaceView`, pass
 
 ## 📷 Screenshots
 
+# Native Frame Processing 
+
+Image_01 :
 ![WhatsApp Image 2025-05-26 at 14 08 48_ccf92696](https://github.com/user-attachments/assets/e80d53b3-8bc3-428d-8c53-d23629b03ec5)
 
+Image_02 :
+![WhatsApp Image 2025-05-26 at 14 08 49_b4c2768c](https://github.com/user-attachments/assets/8b7191c0-2ab4-4fdd-8ba7-46995db2e661)
 
-| Camera Preview (Live) | Native Frame Processing |
-|-----------------------|--------------------------|
-| ![camera](screenshots/camera_preview.jpg) | ![filter](screenshots/processed_frame.jpg) |
+Image_03 :
+![WhatsApp Image 2025-05-26 at 14 08 50_6b369c0c](https://github.com/user-attachments/assets/f4f5db95-7a94-462e-8aac-cab183d03ff0)
+
+Image_04 : 
+![WhatsApp Image 2025-05-26 at 14 08 50_a98b90de](https://github.com/user-attachments/assets/6af885ec-3f36-4c97-99f5-79ee5d9a673d)
+
+Image_05 :
+![WhatsApp Image 2025-05-26 at 14 08 50_25f84a11](https://github.com/user-attachments/assets/510a30e3-58f0-44a9-93f9-16bd9d2aa1be)
+
 
 ---
 

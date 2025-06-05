@@ -106,4 +106,3 @@ Output returned to Java or rendered
 - Use `glPixelStorei(GL_UNPACK_ALIGNMENT, 1);` to avoid texture misalignment.
 
 ---
-
